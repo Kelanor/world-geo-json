@@ -6,7 +6,8 @@
       "type": "Feature",
       "id": "AFG",
       "properties": {
-        "name": "Afghanistan"
+        "name": "Afghanistan",
+        'hc-key': 'af'
       },
       "geometry": {
         "type": "Polygon",
