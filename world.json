@@ -34289,7 +34289,8 @@
 			"type": "Feature",
 			"id": "RUS",
 			"properties": {
-				"name": "Российская Федерация"
+				"name": "Российская Федерация",
+				"hc-key": "ru"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
