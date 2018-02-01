@@ -34290,9 +34290,11 @@
 			"id": "RUS",
 			"properties": {
 				"hc-group": "admin0",
-				"hc-middle-x": 0.57,
-				"hc-middle-y": 0.56,
+				"hc-middle-x": 0.86,
+				"hc-middle-y": 0.48,
+				"hc-key": "ru",
 				"hc-a2": "RU",
+				"name": "Российская Федерация",
 				"labelrank": "2",
 				"country-abbrev": "Rus.",
 				"subregion": "Eastern Europe",
@@ -34300,9 +34302,7 @@
 				"iso-a3": "RUS",
 				"iso-a2": "RU",
 				"woe-id": "23424936",
-				"continent": "Europe",
-				"name": "Российская Федерация",
-				"hc-key": "ru"
+				"continent": "Europe"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
