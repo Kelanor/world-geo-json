@@ -34289,7 +34289,7 @@
 			"type": "Feature",
 			"id": "RUS",
 			"properties": {
-				"name": "Russia"
+				"name": "Российская Федерация"
 			},
 			"geometry": {
 				"type": "MultiPolygon",
