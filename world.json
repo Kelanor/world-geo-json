@@ -6,8 +6,20 @@
       "type": "Feature",
       "id": "AFG",
       "properties": {
-        "name": "Afghanistan",
-        'hc-key': 'af'
+        "hc-group": "admin0",
+				"hc-middle-x": 0.37,
+				"hc-middle-y": 0.52,
+				"hc-key": "af",
+				"hc-a2": "AF",
+				"name": "Afghanistan",
+				"labelrank": "3",
+				"country-abbrev": "Afg.",
+				"subregion": "Southern Asia",
+				"region-wb": "South Asia",
+				"iso-a3": "AFG",
+				"iso-a2": "AF",
+				"woe-id": "23424739",
+				"continent": "Asia"
       },
       "geometry": {
         "type": "Polygon",
