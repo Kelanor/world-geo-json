@@ -34290,8 +34290,8 @@
 			"id": "RUS",
 			"properties": {
 				"hc-group": "admin0",
-				"hc-middle-x": 0.86,
-				"hc-middle-y": 0.48,
+				"hc-middle-x": 0.50,
+				"hc-middle-y": 0.50,
 				"hc-key": "ru",
 				"hc-a2": "RU",
 				"name": "Российская Федерация",
